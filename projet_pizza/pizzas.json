@@ -1,0 +1,39 @@
+[
+    {
+        "nom":"4 fromages",
+        "prix":11.5,
+        "vegetarienne":true,
+        "ingredients":
+            ["mozzarella","bleu","chèvre","comté"]
+    },
+    {
+        "nom":"margherita",
+        "prix":9.5,
+        "vegetarienne":true,
+        "ingredients":["mozzarella","sauce tomates","basilic"]
+    },
+    {
+        "nom":"calzone",
+        "prix":14.0,
+        "vegetarienne":false,
+        "ingredients":["mozzarella","sauce tomate","jambon","oeuf"]
+    },
+    {
+        "nom":"hawaïenne",
+        "prix":12.0,
+        "vegetarienne":false,
+        "ingredients":["mozzarella","fromage","creme","ananas"]
+    },
+    {
+        "nom":"pepperoni",
+        "prix":9.5,
+        "vegetarienne":false,
+        "ingredients":["mozzarella","fromage","tomates","pepperoni"]
+    },
+    {
+        "nom":"végétarienne",
+        "prix":8.0,
+        "vegetarienne":true,
+        "ingredients":["mozzarella","courgette","tomates","basilic","aubergine"]
+    }
+]

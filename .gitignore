@@ -1,0 +1,40 @@
+# User-specific files
+*.suo
+*.user
+*.tmp
+*.bak
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Visual Studio temporary files
+/vs*/
+*.pdb
+
+# Local application data
+Properties/launchSettings.json
+
+# Packages
+packages/
+
+# Logs
+*.log
+
+# Output of various tools
+*.suo
+*.user
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.cache
+*.suo
+*.sln.docstates
+
+# Ignore Visual Studio temporary files, build output, etc.
+**/[Cc]onfig**/
+**/[Oo]bj**/
+**/[Dd]ebug**/
+**/[Rr]eleases**/

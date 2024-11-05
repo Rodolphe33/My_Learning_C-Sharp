@@ -1,0 +1,14 @@
+[
+    {
+        "nom":"Rodolphe","age":27,"majeur":true
+    },
+    {
+        "nom":"Mélina","age":25,"majeur":true
+    },
+    {
+        "nom":"Isa","age":44,"majeur":true
+    },
+    {
+        "nom":"Sophie","age":3,"majeur":false
+    }
+]
