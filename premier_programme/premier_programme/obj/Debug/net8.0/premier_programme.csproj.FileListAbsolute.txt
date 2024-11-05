@@ -1,0 +1,14 @@
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/bin/Debug/net8.0/premier_programme
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/bin/Debug/net8.0/premier_programme.dll
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/bin/Debug/net8.0/premier_programme.pdb
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/premier_programme.AssemblyInfoInputs.cache
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/premier_programme.AssemblyInfo.cs
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/premier_programme.csproj.CoreCompileInputs.cache
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/premier_programme.dll
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/refint/premier_programme.dll
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/premier_programme.pdb
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/bin/Debug/net8.0/premier_programme.deps.json
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/bin/Debug/net8.0/premier_programme.runtimeconfig.json
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/premier_programme.genruntimeconfig.cache
+/var/home/rodolphe/Documents/projet/premier_programme/premier_programme/obj/Debug/net8.0/ref/premier_programme.dll
