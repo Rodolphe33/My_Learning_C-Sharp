@@ -1,0 +1,14 @@
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/bin/Debug/net8.0/nombre_magique
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/bin/Debug/net8.0/nombre_magique.deps.json
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/bin/Debug/net8.0/nombre_magique.runtimeconfig.json
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/bin/Debug/net8.0/nombre_magique.dll
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/bin/Debug/net8.0/nombre_magique.pdb
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/nombre_magique.AssemblyInfoInputs.cache
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/nombre_magique.AssemblyInfo.cs
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/nombre_magique.csproj.CoreCompileInputs.cache
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/nombre_magique.dll
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/refint/nombre_magique.dll
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/nombre_magique.pdb
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/nombre_magique.genruntimeconfig.cache
+/var/home/rodolphe/Documents/projet/projet_c#/nombre_magique/nombre_magique/obj/Debug/net8.0/ref/nombre_magique.dll
